@@ -1,2 +1,2 @@
 # white-board
-<p>parsa</p>
+white board project with tkinter
